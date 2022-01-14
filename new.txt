@@ -1,0 +1,4 @@
+Name:Kate Ore
+Age:23
+Pet_count: 3
+Salary: 30000
