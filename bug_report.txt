@@ -11,3 +11,17 @@ STR:
 AR: Поиск не выдает улицу
 ER: Поиск выдает улицу
 Attachments: https://disk.yandex.ru/i/Dj_7J0Sea5EVBQ
+
+Id: 2
+Title: При лишних пробелах не выполняется поиск района
+Severity: Minor
+Priority: Low
+Environment: Windows 10 Домашняя v:21H2 Яндекс браузер v:21.11.4.727 (64-bit)
+Precondition: 1. Открыть сайт https://www.etagi.com/
+STR: 
+  1) Найти форму под названием Район
+  2) Ввести слово
+  3) Поставить перед словом несколько пробелов
+AR: Поиск не выдает результат
+ER: Поиск выдает результат
+Attachments: https://disk.yandex.ru/i/E7jDfVvFRSrpRQ
